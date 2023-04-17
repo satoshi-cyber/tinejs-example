@@ -3893,12 +3893,18 @@ tinejs.next@^0.0.1:
   dependencies:
     tinejs "^0.0.1"
 
-tinejs.payload@^0.0.2:
+tinejs.payload@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/tinejs.payload/-/tinejs.payload-0.0.3.tgz#f8470f684ce441f9a3b01078d6bc123e72dc7aff"
+  integrity sha512-Qcdd/ZUjzUKkeAJXMfbEvW1njJGJIvnjEOClaVEhl7aT/4kaCxVVarktIsrz2sPv1gPMvhebcC/WH3xqBs6C5w==
+
+tinejs@0.0.2:
   version "0.0.2"
-  resolved "https://registry.yarnpkg.com/tinejs.payload/-/tinejs.payload-0.0.2.tgz#69da45ed78bed8df668fa6cbcf8a531778fa246c"
-  integrity sha512-0xoXr4EA39JWRwxBSNeeu4mHuXjEbQQOz5bJs3G3MiMolNlm5yOnsxe40b32GssgaSb5NCPHFO5tt7T16RlQSQ==
+  resolved "https://registry.yarnpkg.com/tinejs/-/tinejs-0.0.2.tgz#4e517c80e468e70d64281bb34f8be9e975f6d82f"
+  integrity sha512-2QkYPOVW7mZe1/cj0ZFmap8Q4l7tSmBAXM2hleYwb59kVXYKfFafjHKDKlNIAKOkikILsBnB8Cw9uyHVIt/3Bg==
   dependencies:
-    tinejs "^0.0.1"
+    uuid4 "^2.0.3"
+    zod "^3.21.4"
 
 tinejs@^0.0.1:
   version "0.0.1"
@@ -4039,6 +4045,11 @@ util-deprecate@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
+
+uuid4@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/uuid4/-/uuid4-2.0.3.tgz#241e5dfe1704a79c52e2aa40e7e581a5e7b01ab4"
+  integrity sha512-CTpAkEVXMNJl2ojgtpLXHgz23dh8z81u6/HEPiQFOvBc/c2pde6TVHmH4uwY0d/GLF3tb7+VDAj4+2eJaQSdZQ==
 
 v8-to-istanbul@^9.0.1:
   version "9.1.0"
