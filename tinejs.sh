@@ -7,7 +7,7 @@ jest --config=./src/useCases/jest.config.js
 rm ./src/useCases/.types.ts
 rm ./src/useCases/jest.config.js
 rm ./src/useCases/useCases.test.ts
-rm -fr ./pages/api/tine
+rm -fr ./src/app/api/tine
 
 mkdir ./src/app/api
 mkdir ./src/app/api/tine

@@ -13,6 +13,4 @@ const hello = payload(
   { name: 'hello' },
 );
 
-const result = hello.withInput(input);
-
-export default result;
+export default hello.withInput(input);
