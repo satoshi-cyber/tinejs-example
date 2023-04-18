@@ -22,7 +22,7 @@
     "react-dom": "18.2.0",
     "swr": "^2.1.3",
     "tailwindcss": "3.3.1",
-    "tinejs": "0.0.7",
+    "tinejs": "^0.0.8",
     "tinejs.next": "^0.0.1",
     "tinejs.payload": "0.0.4",
     "typescript": "5.0.4"
